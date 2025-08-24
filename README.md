@@ -199,7 +199,5 @@ Licensed under the **MIT License**.
 
 ---
 
-👨‍💻 **Built by John Allen Esteleydes**
-
 ---
 
