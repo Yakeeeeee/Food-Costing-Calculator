@@ -2,11 +2,6 @@
 
 # 🍴 Food Costing Calculator
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](#-system-requirements)
-[![UI](https://img.shields.io/badge/UI-CustomTkinter-darkblue.svg)](https://github.com/TomSchimansky/CustomTkinter)
-
 A **desktop application** built with **Python** and **CustomTkinter** for managing ingredients, recipes, and calculating product costs — including **labor and overhead** — with a modern lightweight design.
 
 ---
