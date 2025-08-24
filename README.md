@@ -40,7 +40,7 @@ A **desktop application** built with **Python** and **CustomTkinter** for managi
 2. Run the application by double-clicking:
 
    ```bash
-   FoodCostingCalculator.exe
+   Food Costing Calculator.exe
    ```
 3. If Windows blocks the file:
 
@@ -62,8 +62,8 @@ A **desktop application** built with **Python** and **CustomTkinter** for managi
 
 ```powershell
 # 1. Clone or download this repository
-git clone https://github.com/Yakeeeeee/FoodCostingCalculator.git
-cd FoodCostingCalculator
+git clone https://github.com/Yakeeeeee/Food-Costing-Calculator.git
+cd Food-Costing-Calculator
 
 # 2. (Optional) Create & activate a virtual environment
 python -m venv .venv
@@ -199,7 +199,7 @@ Licensed under the **MIT License**.
 
 ---
 
-👨‍💻 **Built with passion by John Allen Esteleydes**
+👨‍💻 **Built by John Allen Esteleydes**
 
 ---
 
