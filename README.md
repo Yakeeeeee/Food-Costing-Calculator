@@ -226,7 +226,3 @@ This application is designed to help food businesses make better pricing decisio
 This project is open source and available under the MIT License.
 
 ---
-
-**Developed with ❤️ for the food industry**
-
-*Helping food businesses make better pricing decisions and improve profitability.*
