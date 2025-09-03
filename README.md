@@ -135,7 +135,6 @@ The application calculates:
 - **Python 3.8+**
 - **CustomTkinter** - Modern GUI framework
 - **CSV Data Storage** - Simple, portable data format
-- **Cross-platform compatibility**
 
 ### Data Storage
 The application automatically creates and manages:
