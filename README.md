@@ -1,4 +1,4 @@
-# 🍽️ Food Costing Calculator - Professional Edition
+# 🍽️ Food Costing Calculator 
 
 A modern, user-friendly application for calculating recipe costs and managing food business finances. Built with Python and CustomTkinter for a beautiful, intuitive interface.
 
